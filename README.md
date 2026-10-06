@@ -1,4 +1,4 @@
-### Hey, hey, hey 👋
+### Hello, Hello, Hello 👋
 
 - 💬 I am interested in AI privacy, reading, and sports.
 - 😄 I am happy to contribute to open-source libraries for helping the community. 
